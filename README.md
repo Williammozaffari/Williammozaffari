@@ -1,4 +1,6 @@
-### Hi there 👋
+### _Learning is the way_
+
+![my progress in coding](https://www.codewars.com/users/nima_mzf/badges/large)
 
 <!--
 **Williammozaffari/Williammozaffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
